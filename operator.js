@@ -1,0 +1,7 @@
+console.log(1+2)
+console.log(1 + "dev") 
+console.log(1 - "dev")
+console.log("dev" + "dev")
+// const goodMorningButton = document.querySelector(".morning-btn")
+const g = document.getElementsByClassName(".mor")
+console.log(g)

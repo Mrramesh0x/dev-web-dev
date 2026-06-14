@@ -22,6 +22,8 @@ const goodAfternoonButton = document.querySelector(".afternoon-btn")
 const goodEveningButton = document.querySelector(".evening-btn")
 const goodNightButton = document.querySelector(".night-btn")
 
+
+
 goodMorningButton.addEventListener("click",goodMorning)
 goodAfternoonButton.addEventListener("click",goodAfternoon)
 goodEveningButton.addEventListener("click",goodEvening)

@@ -1,10 +1,17 @@
 #n{
     color: blue;
 }
+.other{
+    background-color: aqua;
+}
 .btn{
     background-color: black;
     color: white;
     border-radius: 12px;
     padding: 15px;
     cursor: pointer;
+    border: none;
+}
+.other{
+    background-color: yellow;
 }
